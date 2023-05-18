@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/b317bbabfabb4485853e9779f5dbd439/artifacts
+end_time: 1684419190416
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: b317bbabfabb4485853e9779f5dbd439
+run_name: bold-elk-166
+run_uuid: b317bbabfabb4485853e9779f5dbd439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419189938
+status: 3
+tags: []
+user_id: MikePratt

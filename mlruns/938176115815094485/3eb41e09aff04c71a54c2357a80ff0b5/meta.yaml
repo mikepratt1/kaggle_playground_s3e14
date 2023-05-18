@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/3eb41e09aff04c71a54c2357a80ff0b5/artifacts
+end_time: 1684419193002
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 3eb41e09aff04c71a54c2357a80ff0b5
+run_name: orderly-gnat-978
+run_uuid: 3eb41e09aff04c71a54c2357a80ff0b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419192555
+status: 3
+tags: []
+user_id: MikePratt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/92284000bf714ea488cfa49e75c60cd6/artifacts
+end_time: 1684419193486
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 92284000bf714ea488cfa49e75c60cd6
+run_name: nimble-moose-680
+run_uuid: 92284000bf714ea488cfa49e75c60cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419193048
+status: 3
+tags: []
+user_id: MikePratt

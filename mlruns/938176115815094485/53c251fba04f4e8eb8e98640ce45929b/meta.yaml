@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/53c251fba04f4e8eb8e98640ce45929b/artifacts
+end_time: 1684419196901
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 53c251fba04f4e8eb8e98640ce45929b
+run_name: suave-calf-155
+run_uuid: 53c251fba04f4e8eb8e98640ce45929b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419196444
+status: 3
+tags: []
+user_id: MikePratt

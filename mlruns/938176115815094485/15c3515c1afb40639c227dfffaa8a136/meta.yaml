@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/15c3515c1afb40639c227dfffaa8a136/artifacts
+end_time: 1684419193968
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 15c3515c1afb40639c227dfffaa8a136
+run_name: rogue-cub-642
+run_uuid: 15c3515c1afb40639c227dfffaa8a136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419193526
+status: 3
+tags: []
+user_id: MikePratt

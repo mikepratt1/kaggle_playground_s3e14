@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/376270cabb4f4850a3128917ea50b8e2/artifacts
+end_time: 1684419177158
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 376270cabb4f4850a3128917ea50b8e2
+run_name: fun-fish-103
+run_uuid: 376270cabb4f4850a3128917ea50b8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419176729
+status: 3
+tags: []
+user_id: MikePratt

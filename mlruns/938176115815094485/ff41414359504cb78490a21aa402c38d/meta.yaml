@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/ff41414359504cb78490a21aa402c38d/artifacts
+end_time: 1684419155426
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: ff41414359504cb78490a21aa402c38d
+run_name: omniscient-owl-125
+run_uuid: ff41414359504cb78490a21aa402c38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684419154950
+status: 3
+tags: []
+user_id: MikePratt
