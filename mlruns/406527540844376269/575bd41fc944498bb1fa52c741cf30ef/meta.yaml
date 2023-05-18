@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/406527540844376269/575bd41fc944498bb1fa52c741cf30ef/artifacts
+end_time: 1684402854329
+entry_point_name: ''
+experiment_id: '406527540844376269'
+lifecycle_stage: active
+run_id: 575bd41fc944498bb1fa52c741cf30ef
+run_name: mercurial-zebra-205
+run_uuid: 575bd41fc944498bb1fa52c741cf30ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402853551
+status: 3
+tags: []
+user_id: MikePratt

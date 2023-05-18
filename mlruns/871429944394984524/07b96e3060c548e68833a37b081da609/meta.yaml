@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/07b96e3060c548e68833a37b081da609/artifacts
+end_time: 1684403688504
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: 07b96e3060c548e68833a37b081da609
+run_name: bald-fawn-790
+run_uuid: 07b96e3060c548e68833a37b081da609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403687615
+status: 3
+tags: []
+user_id: MikePratt

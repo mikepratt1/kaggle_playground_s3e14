@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/698589291452331880/d4df200f9525496586475ef630532517/artifacts
+end_time: 1684402692493
+entry_point_name: ''
+experiment_id: '698589291452331880'
+lifecycle_stage: active
+run_id: d4df200f9525496586475ef630532517
+run_name: resilient-robin-522
+run_uuid: d4df200f9525496586475ef630532517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402690724
+status: 3
+tags: []
+user_id: MikePratt

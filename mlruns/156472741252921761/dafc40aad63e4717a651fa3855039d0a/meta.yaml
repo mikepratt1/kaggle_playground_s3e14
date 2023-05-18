@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/dafc40aad63e4717a651fa3855039d0a/artifacts
+end_time: 1684404024094
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: dafc40aad63e4717a651fa3855039d0a
+run_name: ambitious-hare-175
+run_uuid: dafc40aad63e4717a651fa3855039d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684404023256
+status: 3
+tags: []
+user_id: MikePratt

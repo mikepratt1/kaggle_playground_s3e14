@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/6fa3e0dd467043238e181adc3c461231/artifacts
+end_time: 1684404093522
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: 6fa3e0dd467043238e181adc3c461231
+run_name: defiant-wren-595
+run_uuid: 6fa3e0dd467043238e181adc3c461231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684404092513
+status: 3
+tags: []
+user_id: MikePratt

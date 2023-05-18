@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/fdfeb70755c74322bb54899a28d4f348/artifacts
+end_time: 1684403788985
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: fdfeb70755c74322bb54899a28d4f348
+run_name: peaceful-sheep-529
+run_uuid: fdfeb70755c74322bb54899a28d4f348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403788104
+status: 3
+tags: []
+user_id: MikePratt

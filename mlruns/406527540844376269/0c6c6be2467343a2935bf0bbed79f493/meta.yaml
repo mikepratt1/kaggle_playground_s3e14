@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/406527540844376269/0c6c6be2467343a2935bf0bbed79f493/artifacts
+end_time: 1684402860061
+entry_point_name: ''
+experiment_id: '406527540844376269'
+lifecycle_stage: active
+run_id: 0c6c6be2467343a2935bf0bbed79f493
+run_name: auspicious-carp-889
+run_uuid: 0c6c6be2467343a2935bf0bbed79f493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402858874
+status: 3
+tags: []
+user_id: MikePratt

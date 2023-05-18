@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/faf0d0bd954042cc9b21e25341dfb5a6/artifacts
+end_time: 1684403895415
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: faf0d0bd954042cc9b21e25341dfb5a6
+run_name: delightful-snipe-238
+run_uuid: faf0d0bd954042cc9b21e25341dfb5a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403894460
+status: 3
+tags: []
+user_id: MikePratt

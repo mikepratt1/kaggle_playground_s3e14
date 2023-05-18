@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/897446416530947469/4950c773c796419490d6c4a69cd3695f/artifacts
+end_time: 1684400782405
+entry_point_name: ''
+experiment_id: '897446416530947469'
+lifecycle_stage: active
+run_id: 4950c773c796419490d6c4a69cd3695f
+run_name: fearless-doe-218
+run_uuid: 4950c773c796419490d6c4a69cd3695f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684400779069
+status: 3
+tags: []
+user_id: MikePratt

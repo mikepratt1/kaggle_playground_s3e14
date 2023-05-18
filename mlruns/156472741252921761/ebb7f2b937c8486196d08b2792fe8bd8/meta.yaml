@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/ebb7f2b937c8486196d08b2792fe8bd8/artifacts
+end_time: 1684404081073
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: ebb7f2b937c8486196d08b2792fe8bd8
+run_name: able-crow-141
+run_uuid: ebb7f2b937c8486196d08b2792fe8bd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684404079981
+status: 3
+tags: []
+user_id: MikePratt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/198062256771971885/0a79d37680504b49895a67a5c055a65a/artifacts
+end_time: 1684403015068
+entry_point_name: ''
+experiment_id: '198062256771971885'
+lifecycle_stage: active
+run_id: 0a79d37680504b49895a67a5c055a65a
+run_name: gentle-swan-973
+run_uuid: 0a79d37680504b49895a67a5c055a65a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403014115
+status: 4
+tags: []
+user_id: MikePratt

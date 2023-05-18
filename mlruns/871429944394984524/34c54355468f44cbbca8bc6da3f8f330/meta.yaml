@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/34c54355468f44cbbca8bc6da3f8f330/artifacts
+end_time: 1684403517639
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: 34c54355468f44cbbca8bc6da3f8f330
+run_name: abrasive-vole-393
+run_uuid: 34c54355468f44cbbca8bc6da3f8f330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403516635
+status: 3
+tags: []
+user_id: MikePratt

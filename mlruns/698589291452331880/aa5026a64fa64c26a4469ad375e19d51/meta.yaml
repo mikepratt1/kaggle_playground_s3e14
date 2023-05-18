@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/698589291452331880/aa5026a64fa64c26a4469ad375e19d51/artifacts
+end_time: 1684402694109
+entry_point_name: ''
+experiment_id: '698589291452331880'
+lifecycle_stage: active
+run_id: aa5026a64fa64c26a4469ad375e19d51
+run_name: suave-crow-321
+run_uuid: aa5026a64fa64c26a4469ad375e19d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402692501
+status: 3
+tags: []
+user_id: MikePratt

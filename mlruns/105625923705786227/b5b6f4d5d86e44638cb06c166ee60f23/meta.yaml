@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/b5b6f4d5d86e44638cb06c166ee60f23/artifacts
+end_time: 1684403734454
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: b5b6f4d5d86e44638cb06c166ee60f23
+run_name: resilient-fly-712
+run_uuid: b5b6f4d5d86e44638cb06c166ee60f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403733752
+status: 3
+tags: []
+user_id: MikePratt

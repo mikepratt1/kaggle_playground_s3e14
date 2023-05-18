@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227
+creation_time: 1684403727858
+experiment_id: '105625923705786227'
+last_update_time: 1684403727858
+lifecycle_stage: active
+name: hp_tuning_six

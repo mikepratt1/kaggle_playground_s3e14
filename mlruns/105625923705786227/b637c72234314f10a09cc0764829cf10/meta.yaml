@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/b637c72234314f10a09cc0764829cf10/artifacts
+end_time: 1684403759937
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: b637c72234314f10a09cc0764829cf10
+run_name: brawny-yak-451
+run_uuid: b637c72234314f10a09cc0764829cf10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403759249
+status: 3
+tags: []
+user_id: MikePratt

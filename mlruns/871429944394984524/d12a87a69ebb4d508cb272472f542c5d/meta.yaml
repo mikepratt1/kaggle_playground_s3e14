@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/d12a87a69ebb4d508cb272472f542c5d/artifacts
+end_time: 1684403514994
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: d12a87a69ebb4d508cb272472f542c5d
+run_name: amusing-quail-36
+run_uuid: d12a87a69ebb4d508cb272472f542c5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403514303
+status: 3
+tags: []
+user_id: MikePratt

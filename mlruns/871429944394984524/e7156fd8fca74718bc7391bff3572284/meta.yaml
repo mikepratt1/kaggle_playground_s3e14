@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/e7156fd8fca74718bc7391bff3572284/artifacts
+end_time: 1684403523295
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: e7156fd8fca74718bc7391bff3572284
+run_name: omniscient-ram-527
+run_uuid: e7156fd8fca74718bc7391bff3572284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403522450
+status: 3
+tags: []
+user_id: MikePratt

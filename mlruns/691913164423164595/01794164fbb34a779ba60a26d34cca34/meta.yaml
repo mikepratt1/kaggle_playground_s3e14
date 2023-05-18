@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/691913164423164595/01794164fbb34a779ba60a26d34cca34/artifacts
+end_time: 1684403271937
+entry_point_name: ''
+experiment_id: '691913164423164595'
+lifecycle_stage: active
+run_id: 01794164fbb34a779ba60a26d34cca34
+run_name: marvelous-swan-290
+run_uuid: 01794164fbb34a779ba60a26d34cca34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403271280
+status: 3
+tags: []
+user_id: MikePratt

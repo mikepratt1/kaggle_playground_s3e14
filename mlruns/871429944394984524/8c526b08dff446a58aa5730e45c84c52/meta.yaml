@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/8c526b08dff446a58aa5730e45c84c52/artifacts
+end_time: 1684403518610
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: 8c526b08dff446a58aa5730e45c84c52
+run_name: ambitious-perch-171
+run_uuid: 8c526b08dff446a58aa5730e45c84c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403517812
+status: 3
+tags: []
+user_id: MikePratt

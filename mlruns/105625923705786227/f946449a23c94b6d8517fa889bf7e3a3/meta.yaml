@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/f946449a23c94b6d8517fa889bf7e3a3/artifacts
+end_time: 1684403728518
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: f946449a23c94b6d8517fa889bf7e3a3
+run_name: serious-shrimp-8
+run_uuid: f946449a23c94b6d8517fa889bf7e3a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403727886
+status: 3
+tags: []
+user_id: MikePratt

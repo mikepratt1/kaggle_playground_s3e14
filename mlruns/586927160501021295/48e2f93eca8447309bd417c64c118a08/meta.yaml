@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/586927160501021295/48e2f93eca8447309bd417c64c118a08/artifacts
+end_time: 1684400812119
+entry_point_name: ''
+experiment_id: '586927160501021295'
+lifecycle_stage: active
+run_id: 48e2f93eca8447309bd417c64c118a08
+run_name: zealous-deer-746
+run_uuid: 48e2f93eca8447309bd417c64c118a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684400808937
+status: 3
+tags: []
+user_id: MikePratt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/db767f0cc8864e99a9b0237247cc4d72/artifacts
+end_time: 1684403913183
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: db767f0cc8864e99a9b0237247cc4d72
+run_name: adorable-flea-272
+run_uuid: db767f0cc8864e99a9b0237247cc4d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403912450
+status: 3
+tags: []
+user_id: MikePratt

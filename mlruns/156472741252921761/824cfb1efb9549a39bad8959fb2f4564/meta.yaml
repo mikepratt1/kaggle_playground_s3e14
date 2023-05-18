@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/824cfb1efb9549a39bad8959fb2f4564/artifacts
+end_time: 1684404056981
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: 824cfb1efb9549a39bad8959fb2f4564
+run_name: honorable-frog-500
+run_uuid: 824cfb1efb9549a39bad8959fb2f4564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684404056123
+status: 3
+tags: []
+user_id: MikePratt

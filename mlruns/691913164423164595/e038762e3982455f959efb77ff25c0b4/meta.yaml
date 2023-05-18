@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/691913164423164595/e038762e3982455f959efb77ff25c0b4/artifacts
+end_time: 1684403264165
+entry_point_name: ''
+experiment_id: '691913164423164595'
+lifecycle_stage: active
+run_id: e038762e3982455f959efb77ff25c0b4
+run_name: mysterious-finch-437
+run_uuid: e038762e3982455f959efb77ff25c0b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403263778
+status: 3
+tags: []
+user_id: MikePratt

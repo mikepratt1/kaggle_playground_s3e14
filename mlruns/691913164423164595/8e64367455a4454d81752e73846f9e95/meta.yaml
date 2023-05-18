@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/691913164423164595/8e64367455a4454d81752e73846f9e95/artifacts
+end_time: 1684403272760
+entry_point_name: ''
+experiment_id: '691913164423164595'
+lifecycle_stage: active
+run_id: 8e64367455a4454d81752e73846f9e95
+run_name: mercurial-ray-227
+run_uuid: 8e64367455a4454d81752e73846f9e95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403272023
+status: 3
+tags: []
+user_id: MikePratt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/a5f5f652473c40cfb5666720c2e4a9e9/artifacts
+end_time: 1684403506126
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: a5f5f652473c40cfb5666720c2e4a9e9
+run_name: thoughtful-lynx-142
+run_uuid: a5f5f652473c40cfb5666720c2e4a9e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403505494
+status: 3
+tags: []
+user_id: MikePratt

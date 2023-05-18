@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/248689677112997444/cfccc68397e746e69c649f3859792bcd/artifacts
+end_time: 1684403050471
+entry_point_name: ''
+experiment_id: '248689677112997444'
+lifecycle_stage: active
+run_id: cfccc68397e746e69c649f3859792bcd
+run_name: rambunctious-hawk-55
+run_uuid: cfccc68397e746e69c649f3859792bcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403049746
+status: 3
+tags: []
+user_id: MikePratt

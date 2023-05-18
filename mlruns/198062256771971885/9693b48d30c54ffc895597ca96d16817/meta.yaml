@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/198062256771971885/9693b48d30c54ffc895597ca96d16817/artifacts
+end_time: 1684403007586
+entry_point_name: ''
+experiment_id: '198062256771971885'
+lifecycle_stage: active
+run_id: 9693b48d30c54ffc895597ca96d16817
+run_name: masked-mole-654
+run_uuid: 9693b48d30c54ffc895597ca96d16817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403006887
+status: 3
+tags: []
+user_id: MikePratt

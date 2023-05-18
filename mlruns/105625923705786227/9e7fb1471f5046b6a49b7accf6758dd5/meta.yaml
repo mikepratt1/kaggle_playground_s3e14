@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/9e7fb1471f5046b6a49b7accf6758dd5/artifacts
+end_time: 1684403794108
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: 9e7fb1471f5046b6a49b7accf6758dd5
+run_name: auspicious-seal-258
+run_uuid: 9e7fb1471f5046b6a49b7accf6758dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403793166
+status: 3
+tags: []
+user_id: MikePratt

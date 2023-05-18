@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/2c3d09db310b476294320d8ccc2f02fe/artifacts
+end_time: 1684403930458
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: 2c3d09db310b476294320d8ccc2f02fe
+run_name: angry-midge-12
+run_uuid: 2c3d09db310b476294320d8ccc2f02fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403928753
+status: 3
+tags: []
+user_id: MikePratt

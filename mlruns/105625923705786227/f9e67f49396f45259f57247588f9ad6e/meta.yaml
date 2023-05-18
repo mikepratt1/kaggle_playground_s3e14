@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/f9e67f49396f45259f57247588f9ad6e/artifacts
+end_time: 1684403774021
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: f9e67f49396f45259f57247588f9ad6e
+run_name: hilarious-squid-38
+run_uuid: f9e67f49396f45259f57247588f9ad6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403773396
+status: 3
+tags: []
+user_id: MikePratt

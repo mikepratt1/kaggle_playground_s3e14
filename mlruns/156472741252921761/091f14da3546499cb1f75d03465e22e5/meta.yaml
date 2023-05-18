@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/091f14da3546499cb1f75d03465e22e5/artifacts
+end_time: 1684403990573
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: 091f14da3546499cb1f75d03465e22e5
+run_name: delightful-conch-382
+run_uuid: 091f14da3546499cb1f75d03465e22e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403989579
+status: 3
+tags: []
+user_id: MikePratt

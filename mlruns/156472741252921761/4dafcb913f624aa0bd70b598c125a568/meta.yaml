@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/4dafcb913f624aa0bd70b598c125a568/artifacts
+end_time: 1684403901983
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: 4dafcb913f624aa0bd70b598c125a568
+run_name: handsome-kite-232
+run_uuid: 4dafcb913f624aa0bd70b598c125a568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403900967
+status: 3
+tags: []
+user_id: MikePratt

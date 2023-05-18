@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/248689677112997444/b3b8625ead874a4f9d477721e83005a7/artifacts
+end_time: 1684403045055
+entry_point_name: ''
+experiment_id: '248689677112997444'
+lifecycle_stage: active
+run_id: b3b8625ead874a4f9d477721e83005a7
+run_name: dapper-rat-565
+run_uuid: b3b8625ead874a4f9d477721e83005a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403044416
+status: 3
+tags: []
+user_id: MikePratt

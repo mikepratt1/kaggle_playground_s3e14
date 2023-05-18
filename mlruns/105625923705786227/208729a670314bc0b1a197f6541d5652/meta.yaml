@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/208729a670314bc0b1a197f6541d5652/artifacts
+end_time: 1684403758386
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: 208729a670314bc0b1a197f6541d5652
+run_name: carefree-gnat-100
+run_uuid: 208729a670314bc0b1a197f6541d5652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403757724
+status: 3
+tags: []
+user_id: MikePratt

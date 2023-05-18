@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/198062256771971885/eafb7e6275d945b1975d5a3d17390d53/artifacts
+end_time: 1684402895774
+entry_point_name: ''
+experiment_id: '198062256771971885'
+lifecycle_stage: active
+run_id: eafb7e6275d945b1975d5a3d17390d53
+run_name: caring-lynx-107
+run_uuid: eafb7e6275d945b1975d5a3d17390d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402894982
+status: 3
+tags: []
+user_id: MikePratt

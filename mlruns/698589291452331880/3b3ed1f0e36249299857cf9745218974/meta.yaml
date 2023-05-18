@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/698589291452331880/3b3ed1f0e36249299857cf9745218974/artifacts
+end_time: 1684402694559
+entry_point_name: ''
+experiment_id: '698589291452331880'
+lifecycle_stage: active
+run_id: 3b3ed1f0e36249299857cf9745218974
+run_name: rogue-snail-356
+run_uuid: 3b3ed1f0e36249299857cf9745218974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402694119
+status: 3
+tags: []
+user_id: MikePratt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/198062256771971885/5923777386b045a8a9431b26ff56b37e/artifacts
+end_time: 1684402998498
+entry_point_name: ''
+experiment_id: '198062256771971885'
+lifecycle_stage: active
+run_id: 5923777386b045a8a9431b26ff56b37e
+run_name: clean-lamb-307
+run_uuid: 5923777386b045a8a9431b26ff56b37e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402997140
+status: 3
+tags: []
+user_id: MikePratt

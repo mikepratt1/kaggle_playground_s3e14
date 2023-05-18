@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/698589291452331880/c4fbc691ae5c48dfbfc2124292f9e360/artifacts
+end_time: 1684402699320
+entry_point_name: ''
+experiment_id: '698589291452331880'
+lifecycle_stage: active
+run_id: c4fbc691ae5c48dfbfc2124292f9e360
+run_name: lyrical-grub-211
+run_uuid: c4fbc691ae5c48dfbfc2124292f9e360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402698668
+status: 3
+tags: []
+user_id: MikePratt

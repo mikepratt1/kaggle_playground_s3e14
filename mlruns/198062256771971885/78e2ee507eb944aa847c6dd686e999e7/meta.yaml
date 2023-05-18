@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/198062256771971885/78e2ee507eb944aa847c6dd686e999e7/artifacts
+end_time: 1684402990885
+entry_point_name: ''
+experiment_id: '198062256771971885'
+lifecycle_stage: active
+run_id: 78e2ee507eb944aa847c6dd686e999e7
+run_name: efficient-asp-296
+run_uuid: 78e2ee507eb944aa847c6dd686e999e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402990124
+status: 3
+tags: []
+user_id: MikePratt

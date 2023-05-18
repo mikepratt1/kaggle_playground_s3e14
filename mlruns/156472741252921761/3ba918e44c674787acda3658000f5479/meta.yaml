@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/156472741252921761/3ba918e44c674787acda3658000f5479/artifacts
+end_time: 1684404072061
+entry_point_name: ''
+experiment_id: '156472741252921761'
+lifecycle_stage: active
+run_id: 3ba918e44c674787acda3658000f5479
+run_name: rare-ram-402
+run_uuid: 3ba918e44c674787acda3658000f5479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684404070922
+status: 3
+tags: []
+user_id: MikePratt

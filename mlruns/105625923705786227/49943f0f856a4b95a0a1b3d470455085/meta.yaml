@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/49943f0f856a4b95a0a1b3d470455085/artifacts
+end_time: 1684403745672
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: 49943f0f856a4b95a0a1b3d470455085
+run_name: bald-deer-634
+run_uuid: 49943f0f856a4b95a0a1b3d470455085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403744765
+status: 3
+tags: []
+user_id: MikePratt

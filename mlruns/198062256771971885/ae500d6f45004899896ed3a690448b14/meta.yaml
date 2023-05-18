@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/198062256771971885/ae500d6f45004899896ed3a690448b14/artifacts
+end_time: 1684402891412
+entry_point_name: ''
+experiment_id: '198062256771971885'
+lifecycle_stage: active
+run_id: ae500d6f45004899896ed3a690448b14
+run_name: gentle-foal-455
+run_uuid: ae500d6f45004899896ed3a690448b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402890756
+status: 3
+tags: []
+user_id: MikePratt

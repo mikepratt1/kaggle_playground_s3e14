@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/406527540844376269/fa9c70a550fa4e37a3b70ecda2c8e188/artifacts
+end_time: 1684402852013
+entry_point_name: ''
+experiment_id: '406527540844376269'
+lifecycle_stage: active
+run_id: fa9c70a550fa4e37a3b70ecda2c8e188
+run_name: masked-robin-312
+run_uuid: fa9c70a550fa4e37a3b70ecda2c8e188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402850784
+status: 3
+tags: []
+user_id: MikePratt

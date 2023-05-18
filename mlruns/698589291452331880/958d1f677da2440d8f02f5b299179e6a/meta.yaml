@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/698589291452331880/958d1f677da2440d8f02f5b299179e6a/artifacts
+end_time: 1684402700002
+entry_point_name: ''
+experiment_id: '698589291452331880'
+lifecycle_stage: active
+run_id: 958d1f677da2440d8f02f5b299179e6a
+run_name: dashing-snail-641
+run_uuid: 958d1f677da2440d8f02f5b299179e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684402699378
+status: 3
+tags: []
+user_id: MikePratt

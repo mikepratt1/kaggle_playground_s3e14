@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/871429944394984524/5011bc5b030646a7a0fbbfe397d8a491/artifacts
+end_time: 1684403508713
+entry_point_name: ''
+experiment_id: '871429944394984524'
+lifecycle_stage: active
+run_id: 5011bc5b030646a7a0fbbfe397d8a491
+run_name: adaptable-snail-619
+run_uuid: 5011bc5b030646a7a0fbbfe397d8a491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403507905
+status: 3
+tags: []
+user_id: MikePratt

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/105625923705786227/9b98592da6934e91a00cd469bdd104d8/artifacts
+end_time: 1684403774802
+entry_point_name: ''
+experiment_id: '105625923705786227'
+lifecycle_stage: active
+run_id: 9b98592da6934e91a00cd469bdd104d8
+run_name: nervous-bear-151
+run_uuid: 9b98592da6934e91a00cd469bdd104d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684403774199
+status: 3
+tags: []
+user_id: MikePratt
