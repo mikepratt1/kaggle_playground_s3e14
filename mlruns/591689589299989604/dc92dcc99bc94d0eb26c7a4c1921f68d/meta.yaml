@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/591689589299989604/dc92dcc99bc94d0eb26c7a4c1921f68d/artifacts
+end_time: 1684416192059
+entry_point_name: ''
+experiment_id: '591689589299989604'
+lifecycle_stage: active
+run_id: dc92dcc99bc94d0eb26c7a4c1921f68d
+run_name: polite-owl-290
+run_uuid: dc92dcc99bc94d0eb26c7a4c1921f68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684416186285
+status: 3
+tags: []
+user_id: MikePratt
