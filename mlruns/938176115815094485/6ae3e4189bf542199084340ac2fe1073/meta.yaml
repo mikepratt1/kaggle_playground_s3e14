@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/6ae3e4189bf542199084340ac2fe1073/artifacts
+end_time: 1684477775410
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 6ae3e4189bf542199084340ac2fe1073
+run_name: delicate-wren-967
+run_uuid: 6ae3e4189bf542199084340ac2fe1073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684477774353
+status: 3
+tags: []
+user_id: MikePratt

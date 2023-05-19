@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/3bd1a5e773484302af5683a01ab74ffc/artifacts
+end_time: 1684477811193
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: 3bd1a5e773484302af5683a01ab74ffc
+run_name: entertaining-auk-784
+run_uuid: 3bd1a5e773484302af5683a01ab74ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684477809899
+status: 3
+tags: []
+user_id: MikePratt

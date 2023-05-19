@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/eca8042954864a9b860a503800f1856a/artifacts
+end_time: 1684477805681
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: eca8042954864a9b860a503800f1856a
+run_name: rumbling-smelt-477
+run_uuid: eca8042954864a9b860a503800f1856a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684477804781
+status: 3
+tags: []
+user_id: MikePratt

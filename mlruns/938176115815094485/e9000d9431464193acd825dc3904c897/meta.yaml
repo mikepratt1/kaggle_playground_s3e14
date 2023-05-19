@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/e9000d9431464193acd825dc3904c897/artifacts
+end_time: 1684477865385
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: e9000d9431464193acd825dc3904c897
+run_name: bedecked-dog-601
+run_uuid: e9000d9431464193acd825dc3904c897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684477864242
+status: 3
+tags: []
+user_id: MikePratt

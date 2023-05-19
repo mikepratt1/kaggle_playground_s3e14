@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/e8afbc5b94b94988aae9512a0c42ec91/artifacts
+end_time: 1684477772336
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: e8afbc5b94b94988aae9512a0c42ec91
+run_name: amusing-colt-652
+run_uuid: e8afbc5b94b94988aae9512a0c42ec91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684477771759
+status: 3
+tags: []
+user_id: MikePratt

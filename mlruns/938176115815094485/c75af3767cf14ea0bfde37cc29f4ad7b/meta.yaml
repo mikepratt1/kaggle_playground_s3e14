@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MikePratt/OneDrive%20-%20Kubrick%20Group/ML%20Practice/Playground%20S3E14/kaggle_playground_s3e14/mlruns/938176115815094485/c75af3767cf14ea0bfde37cc29f4ad7b/artifacts
+end_time: 1684477796665
+entry_point_name: ''
+experiment_id: '938176115815094485'
+lifecycle_stage: active
+run_id: c75af3767cf14ea0bfde37cc29f4ad7b
+run_name: bouncy-hog-182
+run_uuid: c75af3767cf14ea0bfde37cc29f4ad7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684477795356
+status: 3
+tags: []
+user_id: MikePratt
